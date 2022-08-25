@@ -88,7 +88,7 @@ public class DemoController : Controller
                     ViewBag.Result = "Phuong trinh hai nghiem phan biet:X1 = " + x1 +" và " + "X2 = " + x2;
                 }
             }
-        
+         
         return View();
     }
 }
